@@ -18,7 +18,7 @@ module.exports = {
     email: {
         username: "test@test.com",
         password: "password",
-        accountName: "Cronj",
+        accountName: "Gaurav Test",
         verifyEmailUrl: "verifyEmail"
     }
 };
